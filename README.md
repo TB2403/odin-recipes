@@ -8,4 +8,4 @@ Some skills that should be displayed includes:
 - Text (headers, paragraphs) and styling
 - Item Lists (ordered and unordered)
 - Images and links
-- Use of git commits
+- Use git commits to show any improvements or adjustments. 
